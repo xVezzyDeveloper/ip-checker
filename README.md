@@ -1,2 +1,2 @@
-# ip-checker
-http://ip-api.com/ u kullanarak ip checklememizi ve %90 oranla doğru konumu bulmanızı sağlar.
+# ip-checker By xVezzy
+api kullanarak ip checklememizi ve %90 oranla doğru konumu bulmanızı sağlar.
